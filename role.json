@@ -6,7 +6,7 @@
     "can_do":"",
     "can_see_traces":1
 },
-"id":"12345":{
+"id":"12345"{
     "role_name":"user",
     "can_view":["invoice_data"],
     "can_do":"",
